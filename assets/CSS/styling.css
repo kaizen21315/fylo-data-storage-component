@@ -622,32 +622,33 @@ footer a:hover {
 
 @media  (max-width: 740px){
 footer{
-margin: 31vh 0 ;
+margin: 31vh 0 0;
 }  
 }
 
 @media  (max-width: 642px){
 footer{
-margin: 22vh 0 ;
+margin: 22vh 0 0;
 }  
 }
 
 @media  (max-width: 528px){
 footer{
-margin: 28.5vh 0 ;
+margin: 28.5vh 0 0;
 }  
 }
 
 @media  (max-width: 640px){
 footer{
-margin: 25vh 0 ;
+margin: 25vh 0 0;
 }  
 }
 
 @media  (max-width: 640px){
 footer{
-margin: 22vh 0 ;
+margin: 22vh 0 0;
 }  
 
 }
+
 
